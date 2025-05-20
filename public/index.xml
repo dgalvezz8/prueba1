@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ACCV</title>
+    <link>http://localhost:55394/</link>
+    <description>Recent content on ACCV</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 02 Jun 2020 01:26:56 +0200</lastBuildDate>
+    <atom:link href="http://localhost:55394/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contacto</title>
+      <link>http://localhost:55394/contacto/</link>
+      <pubDate>Tue, 02 Jun 2020 01:26:56 +0200</pubDate>
+      <guid>http://localhost:55394/contacto/</guid>
+      <description>&lt;p&gt;Usuario de soporte identificado:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Email:&#xA;&lt;a href=&#34;mailto:dgalzaf@istecdigital.es&#34;&gt;dgalzaf@istecdigital.es&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Teléfono: 651430069&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Noticias</title>
+      <link>http://localhost:55394/posts/esto-es-hugo/</link>
+      <pubDate>Tue, 02 Jun 2020 01:26:56 +0200</pubDate>
+      <guid>http://localhost:55394/posts/esto-es-hugo/</guid>
+      <description>&lt;h2 id=&#34;noticias-y-novedades-de-istec&#34;&gt;Noticias y novedades de ISTEC:&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

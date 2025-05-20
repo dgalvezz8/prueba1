@@ -1,0 +1,42 @@
+baseURL = "http://example.com/"
+languageCode = "es"
+title = "ACCV"
+theme = "tale" 
+
+
+[menu]
+   [[menu.main]]
+	 identifier = "TU CERTIFICADO"
+	 name = "TU CERTIFICADO"
+	 title = "TU CERTIFICADO"
+	 weight = 1
+
+   [[menu.main]]
+	 identifier = "SERVICIOS"
+	 name = "SERVICIOS"
+	 title = "SERVICIOS"
+	 url = "/posts/"
+	 weight = 2
+
+
+    [[menu.main]]
+	 identifier = "TU ÁREA"
+	 name = "TU ÁREA"
+	 title = "TU ÁREA"
+	 url = "/posts/"
+	 weight = 3
+
+
+    [[menu.main]]
+	 identifier = "PUNTOS DE REGISTRO"
+	 name = "PUNTOS DE REGISTRO"
+	 title = "PUNTOS DE REGISTRO"
+	 url = "/posts/"
+	 weight = 4
+
+      [[menu.main]]
+	 identifier = "QUIENES SOMOS"
+	 name = "QUIENES SOMOS"
+	 title = "QUIENES SOMOS"
+	 url = "/posts/"
+	 weight = 5
